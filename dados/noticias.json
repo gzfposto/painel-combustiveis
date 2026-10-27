@@ -1,5 +1,19 @@
 [
   {
+    "titulo": "Paula Gama: Combustível mais caro? O que esperar dos preços após reeleição de Lula",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUDdjUDloaXM5X01Pb2dfMk52UGhLdlhmOUQ0dWMyMzhXaHE5eEtRY0tpajNsb0ZFbjUyQ1Z2VkdlMHRoU2JtWS1MdFdMOVFRSWpVTlU4b2RRQU9qNGJ3TVZCUnE5cW9EdVhVYTJmTEJObzRSdnFVSGxMbUZRMVdNRU9FaE4tT0hBbG94bHBzeG1TZVVaalZXSnNnZUh1T3JXTVN3QzRXeC1Qd0tXcngxTGxVbVRmU3JKaElCVTlVcHBRMDl5YTZR?oc=5",
+    "fonte": "UOL",
+    "publicado": "2026-10-27T10:01:21+00:00",
+    "termo": "preço diesel"
+  },
+  {
+    "titulo": "ANP fiscaliza sete postos de combustíveis no Paraná e multa um",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjMzVnZJTnR0SERLNkpQY3ltV3pyZGJNX3RCaUkxUFBhbFdTWlNGSnE0LTlmLXd3akdsUnRRSnlwLVh6YWx6T0ZVM1R1akh5a0VEYnVrNVJHc3ZLRUt2YTJnQTJPOVV6Vno0by0tdGRlSGlRX3pJb2FtWlJEV2JKNVhqQUNid0xBbUllY1lwdDkxeEZuUDhrak9qTGo4a3M2MmJZQi11TXNtU1dE0gGyAUFVX3lxTFBQUHVFX2NIOXloSm1tUUw2ZkwwUWRyNlpwV25NVm82bDlpeHZud0k4aEtmMXVBejlfZVplcDRQUy1XcHNCRy0taEg0NmZrdTZIckVfUklnNXRxaGVnNTJEVVRURWZMLUY0ZGhfVDVMWVItc0tNR2MybHNpTHNYLVlPa1ZIRzFXOWRUYjRjN1lPVndVSTh5cEZHcE1KNjZ1ZFJETVNHVDVNQjFLV195SWJqMXc?oc=5",
+    "fonte": "Bem Paraná",
+    "publicado": "2026-10-27T01:00:00+00:00",
+    "termo": "ANP combustíveis"
+  },
+  {
     "titulo": "Abicom: Petrobras pode agora 'arrumar a casa'",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjdxQXZNSmtzeE8xQjVUaXNZNTZPOWVZSzdPdUhab0dhQ3Bxdk1HcWFnRmlJTzF6SE5jWVFaX1laMTdiaUdCM2hDVkVNY0ZiRzNWcDk1eXhsRzhLOEdkY0hhRHlLaG9zVmVYbzZ2MnlCRjM0WmNDX1F4alJXLTJpaGRCNU9WbkxZNTlfQTNQbk1KZjQzN3Q2a1k2UXBieUFzYUtoeGdyMW5VRk1Hb2VqV9IBtgFBVV95cUxPLXU1dWo2ZzZWSUh0Q3dRQWRxYUVObWZDTDdHdUhrNHBrLXl5bFpscmVaZFJQWGRUWHQ2akYzREtiNG0wOVVmb2UzbVVYZ0E0MUQtTzdpcHVMOUpteldLWlpnQ1BNczdKa2NqaXdHZFB0WmRKYnhZS1lBR2IwQi13VmZDcnA2bU9TYkw1em1BckxmbklBZ2dyQ3VJcDNzd1VLRDFFQlN2Y1dQdXNZQ3V2Y29wc3pOdw?oc=5",
     "fonte": "Jornal Cruzeiro do Sul",
@@ -14,24 +28,31 @@
     "termo": "ICMS combustíveis"
   },
   {
-    "titulo": "Reeleição de Lula vai fazer a Petrobras “arrumar a casa” com reajuste gradual de preço",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnJHMUZPTGRxeGtjSGRaSjNTTDdwbE8xNTBKT3hNWDk4LUktZE1XaDhuOTBVTWFhVEQ4V2NLREVIcFF5SlRwNFRySHJjNGdRbngzZUFCTGlmSUdEd2pnQl9FazlRR0VUSHg0bzcxTXo3RFpIeldJQWZCeThYVUd2ajNRQ0ZoOUJ2b3B5YjBiRHI3OE8tSnhsa1BWOXJveHI4ZUJoVjhFMkpxYlRnWHVtcmhB?oc=5",
-    "fonte": "TV Pampa",
-    "publicado": "2026-10-26T21:55:27+00:00",
+    "titulo": "Alta no QAV leva Petrobras a parcelar reajuste para aliviar setor aéreo.",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdDktbk41SGV6ZVNjRHhLemFIa1BDZDN4ZW9HTGdSRmRub1g5bkU2VVJ5VFVBb2lJQkliaTZPUHVfSFd2TGJmNHQ5TVI2YmdaalZjbENtblBPN2dWS3FVdEFNUVN5b2RJVkxKVENxS0VUWENRaEtyeURnNlAyYkRtWU5TY2ppd0ZjTFBhQTNkUmZuek0xcjZLRjBmbWJpbmhkWUJqSVN4Sl9BeUhDdEtfcVp1RWo3eGEzeHZQTHZaOG5fLWg4SVUwUjdqRHY2NWJU?oc=5",
+    "fonte": "www.portalviu.com.br",
+    "publicado": "2026-10-27T00:00:52+00:00",
     "termo": "Petrobras reajuste"
   },
   {
-    "titulo": "Após TRF-3 decidir, ANP autoriza operação de fábrica de gasolina em SP",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGNtR2xZQ0xZd2NxOHhZRGduX0d2QVk2Y0szU1U4Sk15MWxSbjJNMmdYbjIyazZfVklqQndGeklIRWNpaFU5d1RMeGhYQTBsQ1drUkFuWjlFb1kyd2xOSU1pTDhoSHV1Q3FDRVQtRzAyajZ4OU5oMmtIaEh5NGExaUZBWHFQcTFQc3dMWUd2Sk5MbzQtd0w4b3Q5dDlKVDRVWVpTM185bFB5bl94Nm5NQTl3?oc=5",
-    "fonte": "Migalhas",
-    "publicado": "2026-10-26T21:50:09+00:00",
-    "termo": "ANP combustíveis"
+    "titulo": "Reeleição de Lula vai fazer a Petrobras “arrumar a casa” com reajuste gradual de preço",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYU1aZWRCRW9Ic1JPeFc3VUhwOHhsSEVRVFd3eUp4cUVGb3c3V2NaM0NBWWVRYUNQSlEyTDgycVlEUl9SOGhKYXdneHo2LVBTZEFvTVlwVlJ4d2l5UmpIWjZkUlBHRjNjNTdXREh4YXV0R2hYdlVsdk02cTFNS21vQWNzbWl0X3N0R0k3MVo1T25OZEtOV1VKbWxKUFNOQlZMUjRJOXJnaV9UNjhrMXfSAbMBQVVfeXFMTlVEMTZWOV9KV2cwNlZHTmtETDFXUFhDYzRMcVR3MGZrYjZ6UE1Rdm5qYndNU0V4d1FsUXdFb3d6ZnR3NnBrU0pnUHVpcmRuWEphYm9ZQWdjTVFWWmxBczU3SVVNT2NaYWZ2b2ZzV3Qwa01tLTlPejBwRnVYWlBfZ1JWY3dVYVB2ZktiUHF0VjlaakdUdlVHaW1hRVd4eXVEaWxGUHFwZ1J6NnRpbGt5cU1DSUU?oc=5",
+    "fonte": "Jornal O Sul",
+    "publicado": "2026-10-26T21:55:36+00:00",
+    "termo": "Petrobras reajuste"
   },
   {
     "titulo": "Alta no Diesel pode chegar a até 50% após a reeleição de Lula, declara banco de investimentos globais",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWndBczgzaklNcGZpMHpubEFYZlJkWXR3b25GRjIyZURhUXE2TnB0Z3o2S2FYekwxRkdJOGs2aENMZGE4U0R3bUhUaW1BLXAtVXFCUHFqdWpPSkphT1Q2dHVQc2NwRHhKNXU2dFd5aHBJVzFab1Q5S2RON0hzWHNkTElqak1ubThQVVJIU2xLTnRNalJjaWFSdVNGcHphcGpzY3FCaTNfY3RGVnk5Zk1ETFpueUJzWHRIdVVSR212Qmp6d0piZWJCTGNMaw?oc=5",
     "fonte": "Gazeta de São Paulo",
     "publicado": "2026-10-26T21:30:00+00:00",
+    "termo": "Petrobras reajuste"
+  },
+  {
+    "titulo": "Abicom: reeleição de Lula vai fazer Petrobras 'arrumar a casa' com reajuste gradual de preço",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOXzhtTnBkZlhCTjlsUTQyQUl4NVlsRmtQWlZ0OEgzazRURzNsRmxlTFg3OE5iam12X1FOcS1UbzVSZnppcjQtdC1YbDUtSlFVdDZGR05QTTJaVTBDdlhuZmg2bjRBRlZCenhNRjBZQm5RSU54V0lXZ3ZXRUpZTWxaeV9iRWlqbHUzRVlkMWxzc1pzRXNqb1RkbEVsWHJqbE1XT0FXWktSNXYzWjgxNXZFMHVSOTJmSkNTdm1RNmpHRVdtTWxvNmFuYXVxY0lEbnZHVXlEU29xUUdxejktbV81QzJnNlBpT1FGcUhvS3RTTEnSAfYBQVVfeXFMT3pmejE4anJuWDFKczBIajRXVGJfc0MxVDZnSklRUzBIWVhNbnJkU2RqSUJlVXRVXzRGTlQ1YlRNLWE0MElYMVdRV0dNRDNQSzliSms2X2ZqSDR2NGNQQnFsTnQ5MlV2YTRJYmVjN1NWSDh2STR5VDdJRF9CS0RVb1FheGlrNUhTb3cxNEdaa1MzM2tQR2FwQ2NqeW1wYjZ0SDhPNHhLY1ZfdGRpNnhTWWo2Y3Qyc0FYb0VFcUpBaHBRcUxQOE1abTE3VjlFZTJlaHl4V1YxQ1lrVWVRR0t5MTdETGxkMmZDczBMMG1ZMmJURWF1Qmt3?oc=5",
+    "fonte": "Jornal Correio do Norte",
+    "publicado": "2026-10-26T20:22:00+00:00",
     "termo": "Petrobras reajuste"
   },
   {
@@ -161,6 +182,13 @@
     "termo": "ICMS combustíveis"
   },
   {
+    "titulo": "Após TRF-3 decidir, ANP autoriza operação de fábrica de gasolina em SP",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGNtR2xZQ0xZd2NxOHhZRGduX0d2QVk2Y0szU1U4Sk15MWxSbjJNMmdYbjIyazZfVklqQndGeklIRWNpaFU5d1RMeGhYQTBsQ1drUkFuWjlFb1kyd2xOSU1pTDhoSHV1Q3FDRVQtRzAyajZ4OU5oMmtIaEh5NGExaUZBWHFQcTFQc3dMWUd2Sk5MbzQtd0w4b3Q5dDlKVDRVWVpTM185bFB5bl94Nm5NQTl3?oc=5",
+    "fonte": "Migalhas",
+    "publicado": "2026-10-26T03:00:00+00:00",
+    "termo": "ANP combustíveis"
+  },
+  {
     "titulo": "Conhecidos os contemplados na rifa de São Judas Tadeu, no bairro Ipiranga em Soledade",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ3R4TXJHaURDblhRWkdHb1d2ZVRQX21HWlpyS1N0SU5jdnlFb3JBeXB2WnFSaklOdDYtTFFfS2hBN0t1N1FwNGVtMm05Q3BjVC1XY3NFY1N4SGRCdi0xWmdPbHZ2NklLUDRPUERSQ29hVTdJeTkzekYxTVdudWxpX0VNSVJLeEZaT2lEWHJfSG0zMzI2TG40WHVvQWJia01ZdkIwX2ZpdXpWekRtY0VzVVVrUHRlSDJzcE8tWjF6dERHaTBPRUFQZ0F2anlMZ1BMQ0VWbEtvNk8zZU9TTzRfWjR1V0VEUWl1RG41RQ?oc=5",
     "fonte": "Tua Rádio",
@@ -207,7 +235,7 @@
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYTBTLWJTc3M3NXNhdnJDaGpnNF9VNG9qQ3Fod2FBUmdlcTZHZG9jZ3VqaExGQl9vUDA2WHFYWU1KZUlsNi1wbWNQZWw0ZUgwUGRJM3luMU0xclhha0hoZHcwRVRiZlpTNlNTbnZCTF94V2tyYnVYN09ncEN5a2c3X0thamdaNjFUcXVN?oc=5",
     "fonte": "Motor1.com Brasil",
     "publicado": "2026-10-24T00:30:00+00:00",
-    "termo": "preço diesel"
+    "termo": "preço gasolina"
   },
   {
     "titulo": "Combustíveis terão novos preços em MG e demais estados brasileiros a partir de outubro",
@@ -224,6 +252,13 @@
     "termo": "preço gasolina"
   },
   {
+    "titulo": "ANP faz acordo com Polícia Rodoviária para reforçar atuação nas rodovias federais",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHlOMXNiOUM2VWR1dm9OU3RtZFRPTGZFM0xidEs1NWp3dF9qVHctZXY1SXJhWV9UU3VqYzNBeEpfZWp3SkxjdEEzMGdoZjZGMUxEbGRLZ2V5eHVwbE56S2NCekhsemtPbFBwZUtkNHRoWk45c3F1R0p6T1lFaWs4QXpudFozUWVFQkpFZlpCd3VjSzkycnR0Tk5aUENIM0lwWmtSV3dfNmJYeHdFU2pn0gGvAUFVX3lxTE04eU4xc2I5QzZVZHV2b05TdG1kVE9MZkUzTGJ0SzU1and0X2pUdy1ldjVJcmFZX1RTdWpjM0F4Sl9landKTGN0QTMwZ2hmNkYxTERsZEtnZXl4dXBsTnpLY0J6SGx6a09sUHBlS2Q0dGhaTjlzcXVHSnpPWUVpazhBem50WjNRZUVCSkVmWkJ3dWNLOTJydHROTlpQQ0gzSXBaa1JXd182Ylh4d0VTamc?oc=5",
+    "fonte": "Folha PE",
+    "publicado": "2026-10-23T21:02:51+00:00",
+    "termo": "ANP combustíveis"
+  },
+  {
     "titulo": "Diesel pode ter reajuste de 50% pela Petrobras após eleições, avalia Goldman Sachs",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUldjenYycXFKd1lHc2ZrYkhDYlFNeUk3bkVGNkFiTExha0ZkanFVWDJNOXpJTTJRRURzcUtXZG94VW5QS3BxT185THlFdS1oQzF5YWhnMEZvNHE4YlFPRGxJMUdUcklZcGVtMGJrdE1xZS10VGhQSmZUeURSTWd4VUlmSEZFNmFVT3ZhbjdOMWkwTmg2bXlnb2dJVW5yMy1MR2c2SzREcE1Vd0c0dl84MnM3T2JZbnpjR2c?oc=5",
     "fonte": "Exame",
@@ -232,7 +267,7 @@
   },
   {
     "titulo": "ANP e Polícia Civil fiscalizam posto de combustíveis após denúncias de irregularidades",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUno1SXFnWjN2S2pyM3ExbmZVMllfQjNBUUpoX1BBQkF6cy1KR3E2cEt0Y1RkbXJXUmVhYzc5Q3FvQ0E1d3ZNVW9GS1J2cFhiekJaOVVFTlFJNlJxajFBUnc2dDI0MzhpR0c4dzBtcnF3emJfaWxfeDNQUDA4cFE3eHhlVDdyN1BWSHVpMjdtZWZTMHZuZHlHUFQ2SzFkcGQ3Rm1hOXYxenJMVnJHendudnl3VWpieDFnSERfRkxPeGRNaGlfbkVmSkZjVEYtT3NKVWJYdE1hb185NnFBaUJxRS1nVzh5NEpBaDAwQnZKTm94OFZVWEo5eFBoc9IB-wFBVV95cUxQUno1SXFnWjN2S2pyM3ExbmZVMllfQjNBUUpoX1BBQkF6cy1KR3E2cEt0Y1RkbXJXUmVhYzc5Q3FvQ0E1d3ZNVW9GS1J2cFhiekJaOVVFTlFJNlJxajFBUnc2dDI0MzhpR0c4dzBtcnF3emJfaWxfeDNQUDA4cFE3eHhlVDdyN1BWSHVpMjdtZWZTMHZuZHlHUFQ2SzFkcGQ3Rm1hOXYxenJMVnJHendudnl3VWpieDFnSERfRkxPeGRNaGlfbkVmSkZjVEYtT3NKVWJYdE1hb185NnFBaUJxRS1nVzh5NEpBaDAwQnZKTm94OFZVWEo5eFBocw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaW4wcGNodk53S1pqMklONHdlRkdDX1NIVmFLd29vQTJxX24tRHByTGgtSUFYV2JJVmtiVjJ2WHg0cTVYZmdydldIby1rdjk0MzFlck9LSWRtYU1QdEF6cDdjSklCVjc0MUYyYlV2YlZoQVlxZTdYWU81cU8zaDVNTXRJNVRSX0NPbk16TndYTTB0RUdfaWM2ejBaMEE1RE9rVENvMl9OWFVVcndOdXJDb3k3VmFXLXVXc24yNmh0NjQteVFzekVoVEhRaWdBenhPTDd3Qmt5cnVfQm9jWVFtc1pkS1dTSVl1d0diUNIB-wFBVV95cUxQUno1SXFnWjN2S2pyM3ExbmZVMllfQjNBUUpoX1BBQkF6cy1KR3E2cEt0Y1RkbXJXUmVhYzc5Q3FvQ0E1d3ZNVW9GS1J2cFhiekJaOVVFTlFJNlJxajFBUnc2dDI0MzhpR0c4dzBtcnF3emJfaWxfeDNQUDA4cFE3eHhlVDdyN1BWSHVpMjdtZWZTMHZuZHlHUFQ2SzFkcGQ3Rm1hOXYxenJMVnJHendudnl3VWpieDFnSERfRkxPeGRNaGlfbkVmSkZjVEYtT3NKVWJYdE1hb185NnFBaUJxRS1nVzh5NEpBaDAwQnZKTm94OFZVWEo5eFBocw?oc=5",
     "fonte": "G1",
     "publicado": "2026-10-23T19:33:07+00:00",
     "termo": "ANP combustíveis"
@@ -243,40 +278,5 @@
     "fonte": "DOL",
     "publicado": "2026-10-23T18:08:21+00:00",
     "termo": "ICMS combustíveis"
-  },
-  {
-    "titulo": "Goldman Sachs alerta para risco de reajuste de 50% no diesel da Petrobras após eleições",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV2RKbE1YVnRnMDZjVnNXMGVVVEZUMTlRcEdPXzE3alVIQ1NmTF8wZUxLODgwREh6a3U5Zy0xdW83MHdjZWlJbjA3aVhpX3lMeGp0YmpwdWFlTHNsMzlCOVI0SHFVd1UzYnpVWnJBZlhKZk9MckJXVWpyd3IxU2tlbEEzMERHdjhwSUVhTWVkdmFEbnhmVG1BYnRSRURDcmdWalUyV2cxUEhPaGtKLTNOcEJobzlDUmhSeEEzZHctVmlkZXBub3pSNUJkTl9uQmhHS2Y1R3E0YlZ6b05jMFhLLXE5RWNfMzh5RnBxSkwyY0E2QdIBgAJBVV95cUxOdjZxVjlNSmZvVnlWWlMzdWxYTm96OWNHeHhscXh0alk3VjhYdUtEelJLNWxQLVpzTmZUN0oycFBVNktSRVFETnpvbmNvQ0lNNmJ4NklEcVMzTXVLZzZuSTBFMDN3UEhuV1pob1Y5WGtTZW5sZXBXN21DdXd5bmNyZTNnRHo5TzRzSHhRcEQxc1QtVk1UVVFkeG1pLWs5bFdscjNIVDNhdnpqWlh1ZTl1ZFRzeDM2dk5Xa3dweFg4SW0tQzM0Y1cwZDRQbERTdExVcGJrSzJkWGFRN3NoT2JuUHRoXzloMWVXUlFVZk52czNqV2ljdm1MWkNxUG1qcGZL?oc=5",
-    "fonte": "Valor Econômico",
-    "publicado": "2026-10-23T17:29:07+00:00",
-    "termo": "Petrobras reajuste"
-  },
-  {
-    "titulo": "Conselho da Petrobras deve discutir preço do diesel depois do segundo turno, dizem fontes",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGp4S2gtZXlDeTZ1eWp1Sk1mQ0g4VDBKcjhfeGNTMG9rQ25rZ28yWE1yZy1jbzRyb3BnQllkQ1RrN0NGblk5T3EzbUlsRU5wM0djR2NfaktqVWNIeFJxTlhsQkZScTJOSTNyY3dESTZQMzJGYW1Oc3h2QkhnczBoTWZhdF9iU2ZpN2JKNThsejktMzZvLUw2ZGtZa1lGQW1fSDRUMXlIOWNmemxoczFXU3FGczNVODBxdmtIOVhkNzdqUEtOa0VESExtOUdSNUV3c2RzN0pnZTJ4N0R2VnfSAewBQVVfeXFMTWNudUpjWklXeUh4dk9WeS1yR1hXM2FRdV9DNkg3QmNGSnJBQk43Ry1SR2RuaUJZUm1UY0JicUt6cFpWdFdLT3FiR01RWG1ZckNtVE5WZnBaeUdqR2YyZzR0SkFBQkhSdVdsUWFINFFKSW84OU13WGxNakZYQXV3QVg3VWp3c3F6V0hDZDBvcVVIclQ2Yk80OENKUVZtbWFwbDQ2RVJJLUt1OEEtTkdnVEh1TV9jc1cxamJnOFdTbmJtblp1TFh0Ylk5cFItamt2dXFpM3ROdnpWa1hsNi1BdmlvNU9oWkxHZzdvOFA?oc=5",
-    "fonte": "Valor Econômico",
-    "publicado": "2026-10-23T16:16:27+00:00",
-    "termo": "preço diesel"
-  },
-  {
-    "titulo": "Defasagem do diesel da Petrobras supera subvenção e chega a R$ 3,53 por litro",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnF5enB5N2dMNVE3dnoxTVpjalI4MnR4WUpMMThIMV9zei1RdWl2REpKMDdPNG03WjlTU2g2ZVpTUFd3YmMwdG5lQlpXXzlCbXlmX0FJdE1BakE3WkQ5dzBGaWlRbGxKekp6aVcwTFQ4d3FBMU1objdnWURON0VweC11V0lBRjUxZjhSSy12QTFFQXBrdUx2eHo2aVZfcWhWT1BYNkpMS0xRam9wVEpSZmFoZDRLZw?oc=5",
-    "fonte": "Canal Rural",
-    "publicado": "2026-10-23T15:54:59+00:00",
-    "termo": "Petrobras reajuste"
-  },
-  {
-    "titulo": "Defasagem do diesel nas refinarias da Petrobras ultrapassa subvenção e atinge R$ 3,53/l",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNemo2QnQ1S19SVmx5ZzNCUy0yYmV4Y0NDbmM4R3VwNVpDc0o5Ulo3amhFckc3WXFHZnVEVnhXLVFJb0liTlpvSTdyc205SFdJc3FOZ3pZbDFBd2ZaTTFUODU5Zk1EazB0U1Q0UWgyZ01maWhuNzJscFBPZlpPT3c0Zk5uTlM5WGJJZENFb3VlQWtlck41alYyT0xsZ2oxSFRYRGRHN2VZNm5OMzFpS3lxaTQ1c3dkWTc5c3NDal93ejZ2TnNTakw1aE9LSHNiaWkxN1lFSFBjaURyME1OZWo4RzVvSjVnNzJC?oc=5",
-    "fonte": "UOL Economia",
-    "publicado": "2026-10-23T15:43:00+00:00",
-    "termo": "Petrobras reajuste"
-  },
-  {
-    "titulo": "Lula x Flávio Bolsonaro: O que cada um propõe para o preço da gasolina, do diesel e da conta de luz?",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa0dRRnpfd0wxSzhkQWppZFZzVGF5Tm9zS05taXB1WHZHQzcyYWp1VVpxQUx1MjIzSHlCWi1EcDd1bXVmYmh0VFlSRjhmNXV5QWNJdHc3eDNQejVWLUhlT2lYX1pvZ1lxOW5XZWxCUmZZYTFRa1ZQS2ZXWXg4RWdrMm94T1NnSV9jVllveEsycTZJVWlveEl2ZkNmWE1rRS1VNkdMbFQ1ZE15RmxCTzduaUplUTAweFhHRFY4cjU2eDctWTdKc05Sai1Kdw?oc=5",
-    "fonte": "NovaCana",
-    "publicado": "2026-10-23T15:15:30+00:00",
-    "termo": "preço diesel"
   }
 ]
