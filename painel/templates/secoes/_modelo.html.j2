@@ -1,0 +1,16 @@
+{# =====================================================================
+   MODELO de seção para os módulos da Fase 2.
+   Copie este arquivo como secoes/<nome_do_modulo>.html.j2 (ex.: anp.html.j2).
+   Ele aparece automaticamente na página quando o módulo estiver ativo.
+   O que o módulo devolveu em coletar() fica em fontes.<nome>, ex.:
+     fontes.anp.df  (DataFrame do pandas)
+   ===================================================================== #}
+<h2>Título da seção</h2>
+<div class="card">
+  {% set df = fontes.NOME_DO_MODULO.df %}
+  <table style="width:100%; font-size:.9rem">
+    {% for linha in df.tail(5).itertuples() %}
+    <tr><td>{{ linha.data.strftime('%d/%m/%Y') }}</td><td>{{ linha.valor | num(3) }}</td></tr>
+    {% endfor %}
+  </table>
+</div>

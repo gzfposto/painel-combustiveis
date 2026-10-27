@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel de Combustíveis</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⛽</text></svg>">
+<style>
+  :root {
+    --bg: #f5f6f8; --card: #ffffff; --text: #1b1f24; --muted: #5d6673;
+    --line: #e2e5ea; --accent: #0b5cad;
+    --alta: #c2410c; --baixa: #15803d;
+    --s1: #0b5cad; --s2: #e08a00; --s3: #7c3aed;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #111418; --card: #1a1f25; --text: #e7eaee; --muted: #9aa4b1;
+      --line: #2b323b; --accent: #5ea6f2;
+      --alta: #fb923c; --baixa: #4ade80;
+      --s1: #5ea6f2; --s2: #f5b041; --s3: #b794f6;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding: 16px; }
+  header h1 { font-size: 1.35rem; margin: 0 0 2px; }
+  header p { margin: 0; color: var(--muted); font-size: .9rem; }
+  h2 { font-size: 1.05rem; margin: 28px 0 10px; }
+  .grade { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+  .card .t { font-size: .85rem; color: var(--muted); }
+  .card .v { font-size: 1.6rem; font-weight: 650; font-variant-numeric: tabular-nums; margin: 2px 0; }
+  .card .u { font-size: .8rem; color: var(--muted); font-weight: 400; }
+  .vars { display: flex; gap: 10px; font-size: .82rem; font-variant-numeric: tabular-nums; flex-wrap: wrap; }
+  .vars span b { font-weight: 400; color: var(--muted); margin-right: 3px; }
+  .alta { color: var(--alta); } .baixa { color: var(--baixa); } .neutro { color: var(--muted); }
+  .mm { margin-top: 6px; font-size: .8rem; color: var(--muted); }
+  .grafico { position: relative; height: 280px; }
+  .legenda { font-size: .8rem; color: var(--muted); margin-top: 6px; }
+  .aviso { background: #fff4e5; color: #7a4100; border: 1px solid #f3c27a; border-radius: 10px;
+           padding: 10px 12px; font-size: .88rem; margin-top: 14px; }
+  @media (prefers-color-scheme: dark) { .aviso { background: #3a2a12; color: #f8d49a; border-color: #7a5a24; } }
+  .resumo { white-space: pre-wrap; }
+  ul.noticias { list-style: none; margin: 0; padding: 0; }
+  ul.noticias li { padding: 10px 0; border-bottom: 1px solid var(--line); }
+  ul.noticias li:last-child { border-bottom: 0; }
+  ul.noticias a { color: var(--text); text-decoration: none; font-weight: 550; }
+  ul.noticias a:hover { color: var(--accent); text-decoration: underline; }
+  .meta { font-size: .8rem; color: var(--muted); }
+  footer { color: var(--muted); font-size: .8rem; margin: 30px 0 10px; }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>⛽ Mercado de Combustíveis</h1>
+    <p>{{ posto.nome }} · atualizado em {{ atualizado }} (Brasília)</p>
+  </header>
+
+  {% for a in avisos %}
+  <div class="aviso">⚠️ Não foi possível atualizar <b>{{ a }}</b>. Mostrando os últimos dados salvos.</div>
+  {% endfor %}
+
+  {% if analises.resumo_ia %}
+  <h2>Resumo do dia</h2>
+  <div class="card resumo">{{ analises.resumo_ia.texto }}</div>
+  {% endif %}
+
+  <h2>Indicadores</h2>
+  <div class="grade">
+    {% for c in cartoes %}
+    <div class="card">
+      <div class="t">{{ c.titulo }}</div>
+      <div class="v">{{ c.valor | num(c.casas) }} <span class="u">{{ c.unidade }}</span></div>
+      <div class="vars">
+        {% for rotulo, chave in [("dia", "dia"), ("semana", "semana"), ("mês", "mes")] %}
+          {% set v = c[chave] %}
+          <span class="{{ 'neutro' if v is none or v == 0 else ('alta' if v > 0 else 'baixa') }}">
+            <b>{{ rotulo }}</b>{% if v is not none and v > 0 %}▲{% elif v is not none and v < 0 %}▼{% endif %}{{ v | pct }}
+          </span>
+        {% endfor %}
+      </div>
+      {% for m in c.medias or [] %}
+      <div class="mm">{{ m.rotulo }}: R$ {{ m.valor | num(2) }} —
+        <span class="{{ 'alta' if m.acima else 'baixa' }}">preço {{ 'acima' if m.acima else 'abaixo' }}</span></div>
+      {% endfor %}
+      <div class="meta">em {{ c.data }}</div>
+    </div>
+    {% endfor %}
+  </div>
+  <p class="legenda">Cores do ponto de vista de quem compra combustível:
+    <span class="alta">▲ alta = pressão de custo</span> ·
+    <span class="baixa">▼ baixa = alívio</span>. Semana e mês comparam com o último fechamento de 7 e 30 dias atrás.</p>
+
+  <h2>Brent em reais (R$/barril) com médias móveis</h2>
+  <div class="card"><div class="grafico"><canvas id="gBrl"></canvas></div>
+    <p class="legenda">Brent × PTAX do dia. Preço acima das médias indica tendência de alta; abaixo, de baixa.</p></div>
+
+  <h2>Brent e WTI (US$/barril)</h2>
+  <div class="card"><div class="grafico"><canvas id="gUsd"></canvas></div></div>
+
+  <h2>Dólar PTAX (R$/US$)</h2>
+  <div class="card"><div class="grafico"><canvas id="gPtax"></canvas></div></div>
+
+  {% for nome in secoes_extras %}
+    {% include "secoes/" ~ nome ~ ".html.j2" %}
+  {% endfor %}
+
+  <h2>Notícias dos últimos {{ dias_noticias }} dias</h2>
+  <div class="card">
+    {% if noticias %}
+    <ul class="noticias">
+      {% for n in noticias %}
+      <li>
+        <a href="{{ n.link }}" target="_blank" rel="noopener">{{ n.titulo }}</a>
+        <div class="meta">{{ n.fonte }} · <span class="quando" data-iso="{{ n.publicado }}">{{ n.publicado[:10] }}</span> · busca: {{ n.termo }}</div>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p class="meta">Nenhuma notícia encontrada no período.</p>
+    {% endif %}
+  </div>
+
+  <footer>
+    Fontes: Yahoo Finance / FRED (Brent e WTI), Banco Central — SGS série 1 (PTAX venda), Google News (notícias).
+    Baixar dados: <a href="dados/petroleo.csv">petroleo.csv</a> ·
+    <a href="dados/ptax.csv">ptax.csv</a> · <a href="dados/brent_brl.csv">brent_brl.csv</a>
+  </footer>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script>
+const G = {{ graficos | tojson }};
+const CURTA = {{ curta }}, LONGA = {{ longa }};
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const brNum = (v, c = 2) => v == null ? "—" : v.toLocaleString("pt-BR", {minimumFractionDigits: c, maximumFractionDigits: c});
+
+function linha(id, dados, series, casas) {
+  if (!window.Chart || !dados.datas.length) return;
+  Chart.defaults.color = css("--muted");
+  Chart.defaults.borderColor = css("--line");
+  new Chart(document.getElementById(id), {
+    type: "line",
+    data: {
+      labels: dados.datas,
+      datasets: series.map(s => ({
+        label: s.rotulo, data: dados[s.chave], borderColor: css(s.cor), backgroundColor: css(s.cor),
+        borderWidth: s.fina ? 1.5 : 2.2, borderDash: s.tracejado ? [5, 4] : [],
+        pointRadius: 0, pointHitRadius: 8, tension: 0.15, spanGaps: true,
+      })),
+    },
+    options: {
+      maintainAspectRatio: false, interaction: {mode: "index", intersect: false},
+      plugins: {
+        legend: {position: "bottom", labels: {boxWidth: 12, boxHeight: 2}},
+        tooltip: {callbacks: {label: c => `${c.dataset.label}: ${brNum(c.parsed.y, casas)}`}},
+      },
+      scales: {
+        x: {ticks: {maxTicksLimit: window.innerWidth < 600 ? 4 : 8, maxRotation: 0, autoSkipPadding: 16},
+            grid: {display: false}},
+        y: {ticks: {callback: v => brNum(v, casas > 2 ? 2 : 0)}},
+      },
+    },
+  });
+}
+
+linha("gBrl", G.brl, [
+  {chave: "brent_brl", rotulo: "Brent R$", cor: "--s1"},
+  {chave: "mm" + CURTA, rotulo: "Média " + CURTA + " dias", cor: "--s2", fina: true},
+  {chave: "mm" + LONGA, rotulo: "Média " + LONGA + " dias", cor: "--s3", fina: true, tracejado: true},
+], 2);
+linha("gUsd", G.usd, [
+  {chave: "brent", rotulo: "Brent", cor: "--s1"},
+  {chave: "wti", rotulo: "WTI", cor: "--s2"},
+], 2);
+linha("gPtax", G.ptax, [{chave: "ptax", rotulo: "PTAX venda", cor: "--s1"}], 4);
+
+// Datas das notícias no horário de Brasília
+document.querySelectorAll(".quando").forEach(el => {
+  const d = new Date(el.dataset.iso);
+  el.textContent = d.toLocaleString("pt-BR", {timeZone: "America/Sao_Paulo", day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit"});
+});
+</script>
+</body>
+</html>

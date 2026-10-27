@@ -1,0 +1,49 @@
+# =============================================================
+#  Configuração do Painel de Combustíveis
+#  Edite este arquivo direto no GitHub (ícone de lápis) — não
+#  precisa mexer no código Python para os ajustes do dia a dia.
+# =============================================================
+
+posto:
+  nome: "Posto Ipiranga — Serra Gaúcha"
+  cidade: "Caxias do Sul"     # usado no futuro módulo ANP
+  uf: "RS"
+
+historico:
+  # Na primeira execução, quantos dias para trás buscar.
+  dias_iniciais: 730
+
+graficos:
+  # Quantos dias aparecem nos gráficos da página.
+  dias_exibidos: 180
+  media_curta: 20
+  media_longa: 50
+
+noticias:
+  dias: 7
+  max_por_termo: 15
+  max_total: 40
+  termos:
+    - "Petrobras reajuste"
+    - "preço diesel"
+    - "preço gasolina"
+    - "ANP combustíveis"
+    - "ICMS combustíveis"
+    - "Ipiranga combustíveis"
+
+# -------------------------------------------------------------
+#  Módulos (fontes de dados). "ativo: false" = desligado.
+#  Os módulos da Fase 2 já existem no código como esqueleto;
+#  basta implementá-los e trocar para "true".
+# -------------------------------------------------------------
+modulos:
+  petroleo:  { ativo: true }
+  ptax:      { ativo: true }
+  noticias:  { ativo: true }
+  # --- Fase 2 ---
+  abicom:    { ativo: false }   # defasagem de preços (Abicom)
+  anp:       { ativo: false }   # preços semanais da ANP por município
+  cepea:     { ativo: false }   # indicadores de etanol (CEPEA/Esalq)
+  resumo_ia:                    # resumo diário escrito pelo Claude
+    ativo: false
+    modelo: "claude-opus-5-5"
