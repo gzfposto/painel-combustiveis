@@ -21,14 +21,14 @@ concurrency:
 
 jobs:
   atualizar:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # versão fixa: evita surpresas quando o GitHub troca o "latest"
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
@@ -50,12 +50,14 @@ jobs:
             echo "Sem dados novos."
           else
             git commit -m "Dados atualizados em $(TZ=America/Sao_Paulo date '+%d/%m/%Y %H:%M')"
-            git push
+            # Se alguém editou o repositório enquanto o robô rodava, junta antes de enviar.
+            git pull --rebase -X theirs origin main
+            git push origin HEAD:main
           fi
 
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: site
       - id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
