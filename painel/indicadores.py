@@ -15,6 +15,8 @@ def juntar_brent_ptax(petroleo: pd.DataFrame, ptax: pd.DataFrame,
     disponível antes dele, em feriados brasileiros) e calcula as médias."""
     p = petroleo.dropna(subset=["brent"]).sort_values("data")
     d = ptax.dropna(subset=["ptax"]).sort_values("data")
+    p = p.assign(data=p["data"].astype("datetime64[ns]"))
+    d = d.assign(data=d["data"].astype("datetime64[ns]"))
     df = pd.merge_asof(p, d, on="data", direction="backward").dropna(subset=["ptax"])
     df["brent_brl"] = df["brent"] * df["ptax"]
     df["brent_brl_litro"] = df["brent_brl"] / LITROS_POR_BARRIL

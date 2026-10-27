@@ -15,6 +15,12 @@ RAIZ = Path(__file__).resolve().parent.parent
 DADOS = RAIZ / "dados"
 
 
+def _datas(col: pd.Series) -> pd.Series:
+    """Datas sempre no mesmo formato (o pandas 3 varia a precisão conforme a
+    origem, e séries com precisões diferentes não podem ser combinadas)."""
+    return pd.to_datetime(col).dt.normalize().astype("datetime64[ns]")
+
+
 def caminho(nome: str) -> Path:
     DADOS.mkdir(exist_ok=True)
     return DADOS / nome
@@ -25,7 +31,8 @@ def ler_serie(nome: str) -> pd.DataFrame:
     arq = caminho(f"{nome}.csv")
     if not arq.exists():
         return pd.DataFrame()
-    df = pd.read_csv(arq, parse_dates=["data"])
+    df = pd.read_csv(arq)
+    df["data"] = _datas(df["data"])
     return df.sort_values("data").reset_index(drop=True)
 
 
@@ -35,7 +42,7 @@ def salvar_serie(nome: str, novos: pd.DataFrame) -> pd.DataFrame:
         return ler_serie(nome)
     antigo = ler_serie(nome)
     novos = novos.copy()
-    novos["data"] = pd.to_datetime(novos["data"]).dt.normalize()
+    novos["data"] = _datas(novos["data"])
     df = pd.concat([antigo, novos], ignore_index=True)
     df = df.drop_duplicates(subset="data", keep="last").sort_values("data")
     df.to_csv(caminho(f"{nome}.csv"), index=False, date_format="%Y-%m-%d",
