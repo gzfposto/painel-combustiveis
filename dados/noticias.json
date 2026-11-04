@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Gasolina comum tem valor médio de R$ 6,41 no Alto Tietê segundo ANP",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNm5kekhtWm5CQm45VkhSR095ZmVqczlobFg3d1M3NE50aUdYZ1ZXVklXckF3OW5XLXp5UkVUQUw0TVBfNWoyVmpHd0dxMTlUS1Fjc0p3NWVJc0k1X3Bwb1lmOFJIVEMwTzhZenVCRXUxbjBQMS1EWmQtOVhpdmdhOEZQeVRhYnZ1VThKX25DZHUxTjM5Y2lWNXpGc3BhYnhaRHhCZ0ladTYtakVXN3J5QTBuUnl2ajRHWFBtdVpPVQ?oc=5",
+    "fonte": "Diário de Suzano",
+    "publicado": "2026-11-04T10:30:00+00:00",
+    "termo": "ANP combustíveis"
+  },
+  {
+    "titulo": "Diesel comum dispara 4,47% no Sudeste e chega a R$ 7,01 em outubro, aponta Edenred",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU1cwbnZNakQ4LWZHMG5kcTZlUkcwMUtkUTBBOElfckxyNVVWQ250bXNNbDA1c3VKS1FKUFRkRlkwT1lkU0NYcDl6NktmdktnTTMzRkRaQkFRNGU3MFNhNjhlRnNEaTUwcTduOHBVZ0ZvZXVNaWdtUWVCcXQ4UklIUXJITlZsUXFLZFMyR0NNckJNd2g1bHl1MmRWN05mSHJIbVBiQWgxMzdlY1B1SGR2dWxKamNFVUpZWEhzdDBBUGtFR1ZOWmZlTjh1OGJwOU1uTXlBZDQxaEtzYUU3bVFkQ3E5TENpOGtGeXFPRnJCMXI?oc=5",
+    "fonte": "Portal do Agronegócio",
+    "publicado": "2026-11-03T21:20:00+00:00",
+    "termo": "preço diesel"
+  },
+  {
+    "titulo": "Estudo aponta que Combustíveis na Bahia seguem mais caros após privatização da Refinaria de Mataripe",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRFV6SXZhUVhTV0FOQXUxdm16UTMyd3Nia0RZWUtaQ3hZUl95bloxSl8zZXl4MEVDaGVjN2tDdTlXQWxrRWo2V1J2RTBrR0ItcFE2Smp3c0NfMjJ3Z0lNb1RhOUVfRHd5SUlxRTFubUtwazZUM0FmbHFtZDJCU09keVlwZl82UU9VSDZJeE1sTHBXRl9sbmFYaENiZHNiYkZUQzFSQy13OVNxNjRtSWZwczdIdGM0MDJqa1Y2V2hvYkpDLVhIaDJBS3dRWEFkTU1SZXZ4MWF1SnRKXy1tOFUwUDZXMW5EX2YxcVVV0gH6AUFVX3lxTFBoa2RyR0JDMjk4bjZKbmlGcW02ZUdfQ0RzbV9MSHl0emlDUWxBTVZpMF9GMU53ZmlMV2N6bWFQeUxnTnhhS29UZElxd2RJOENzTUdRRDNuaktPUnNOWFd1MXVfSE84YXVLeE5JU19qTzBPYmoweWRHUVFVSUpuRFgzaXZOSG1MMktpOXRBNGFwdlNPTmg5aFVyRURvX3A5Q2s5dUxsTkFiSU9fM3E0eGpYNnNuZFVveEJZZWtpS0hxMGQzUmRjOW8wQ1gzay1WQVpndGp4UVdMQUJGNHEtNXZ3SjhjVkJ6ZHBudDBNaXdNbmc3eXRNMWcydUE?oc=5",
+    "fonte": "G1",
+    "publicado": "2026-11-03T21:09:51+00:00",
+    "termo": "preço gasolina"
+  },
+  {
     "titulo": "ANP enviará ao Cade processos contra distribuidoras por elevação abusiva de preços",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFUwak1keHRDNlEzT0NlbXBkU3RyRWlkSWRjT0tPOURsRXhFTHR5Q2hhSkVlT1A0N2hvTW1EWFZjX1RKVFIyd1B1YzVhcEs4YS1iaEdLRUE0ODRKaHByRTlDaGxhX3RUaUxxZVpsMlNHMFdqUDdoUUFqZnNoemFzeTBJX0lFVzBKUmVWRzRGT0V0V0hTOF92dWlNc185ck5IU0hjQnR4MzVDQmhCWmNfVTRmcXJXeEc1aS0tdXkzd29XUl9RWTY4ekZmUlVOTHc?oc=5",
     "fonte": "BiodieselBR",
@@ -21,11 +42,18 @@
     "termo": "ANP combustíveis"
   },
   {
-    "titulo": "Governadores que prometeram não subir impostos aprovam aumento do ICMS",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaYVVBdi1Ic3lkOEJaaEtGbFRHOHdYSGxWRW5RX0FENEdnaEhEcmNRSmFpbEEtRE1UdzZVVVVLTTVoSEVEQ29YWG9wM0hWY3hjcEdVZEMyUXk5SXRZVENJZWgtYUQtZ0gzclB5Y0c4WDl3LU80X2tDcWE5bmRSZw?oc=5",
-    "fonte": "ICL Notícias",
-    "publicado": "2026-11-03T17:00:48+00:00",
+    "titulo": "Preços de Combustíveis: PMM divulga resultado da pesquisa",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkQ1akVpM3hLNHhzMzdfQkliOEtzLW92eUMyMV9iMkZneFlVYVFlMXpmMFJUVGFBMVpVTzZaY1Rxb3FXZnJJeVNONHBSQUZ4WGM4dU9PUTlMMVY4S1B3aTRnd1owUXVzUWROd21uUFluWG1JOVBHc056U0xSSW1PN0tGWXlvWVB5Y0w0MzVLcw?oc=5",
+    "fonte": "Prefeitura de Manaus",
+    "publicado": "2026-11-03T18:59:00+00:00",
     "termo": "preço diesel"
+  },
+  {
+    "titulo": "Preços do diesel e da gasolina registraram ligeiro recuo na última semana de outubro, diz ANP",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUHhmeHdoX25mbnVLTHFtcWFtdlFIdVVkOHhmVDVVa0w3SUgyLTJDUjlkbE9iZTJEVlZSdWVzR0Vjdmh1NFNSQkE1Z1h6YWhJbEQ3MzVmb1lhbGZvWHpURTNNdTRpNVMwRkR6WUF5eGNCVFhRdnU4M0ZSVUhsMndMR19EV3pxeUhHZDJ2WDZtTzNZV0YyVG41dm9oSVo1X1FtMjZWd01ydVhBNGxzWkxYSEl5X2NXTmNBUWgyUVFsLUtqVEJ2bHdVNE1LS3kyTHQ0TG55ZTQ0Z3ZkaUE?oc=5",
+    "fonte": "Jornal de Brasília",
+    "publicado": "2026-11-03T18:41:19+00:00",
+    "termo": "ANP combustíveis"
   },
   {
     "titulo": "ANP multa distribuidoras em mais de R$ 700 milhões por aumentos abusivos de combustíveis",
@@ -70,6 +98,13 @@
     "termo": "Ipiranga combustíveis"
   },
   {
+    "titulo": "Governadores que prometeram não subir impostos aprovam aumento do ICMS",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaYVVBdi1Ic3lkOEJaaEtGbFRHOHdYSGxWRW5RX0FENEdnaEhEcmNRSmFpbEEtRE1UdzZVVVVLTTVoSEVEQ29YWG9wM0hWY3hjcEdVZEMyUXk5SXRZVENJZWgtYUQtZ0gzclB5Y0c4WDl3LU80X2tDcWE5bmRSZw?oc=5",
+    "fonte": "ICL Notícias",
+    "publicado": "2026-11-02T23:30:59+00:00",
+    "termo": "preço diesel"
+  },
+  {
     "titulo": "ICMS sobre os combustíveis: veja quanto será o aumento na gasolina, gás de cozinha e diesel a partir de 1° de fevereiro de 2027 em SP",
     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPS0RaU0VLZzQ5UmsyTmtmU2l5MHREU0c2SGExUmRBLW5URjlkV3lsTEpFUlQteTZyeDNHU2lLWWJ0SGFCOVVtLWJ6aVMyV3R6VlB3RjZvVm52ZTNCSTJXMFZlT1EtZVNqaU9DWFEtdjNNQ04tejZ4bXg1SVZUNkR0b212UlYxa0Z3UGR6ODBvVWFrM3Z5X19fOWxaMGdpczlPVjdSY2toT2tmSWtXZFpBSEg1S0NYcllGOVJ6M1FfeHY0SzdUYWtFcDlqT1R6dlR0a2FTSk5CTmxwdUVYNVdXZ0ZzRUJqZUVfMnNRWE5Jc0N6cXZ3cWlqWlVHUWdpdzcwWE9BTE9XNzU2V0ViNkxEbUVvaUNEaDhV0gGnAkFVX3lxTE1JTzhFMUl2eVpfT25rR1JpZmVkZFhNa2o0UjA2bVU5OFEtdWJPYlRoTzNiY1JCN3BjWUV3NnRSRkVvRzY2dHk3RGtFMjNYQ1dmYzNET0tHRWJBZXRWV25NWTZWMElUUFRXUkxacW5kSWJyc0VZTndCZnY3MmlaN1dBMXFnTnpETW5UcE5scWx3b3R2V3FobzB6dkg0ZW9RUHF2X0ZSbzdZSDJWcU5QUXBkcERKV1JhbzZaVFFwY2dadkZ2TzROM2RVeVNNeFJ3ZXpCUGs0MlpyUkJBN3ExcHVmOFRkTUk5MnZYT25nUHUxRVJTYmlhMlh0UkM4SEM1YzlSeVl4b0l0Ukk0d1k4bER2bmVMZ3BWcnJ4OFdldnRlRFJPMEtKUlU?oc=5",
     "fonte": "G1",
@@ -110,6 +145,13 @@
     "fonte": "Valor Econômico",
     "publicado": "2026-11-02T00:47:24+00:00",
     "termo": "preço diesel"
+  },
+  {
+    "titulo": "Governo da Bahia aprova aumento do ICMS sobre combustíveis e gás de cozinha para 2027",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUFhTldQbzBTd1BobnlPT1BmUDB0ejN5bDY1QTdGbmg1T2Y4dk42VEVuQjNuaTRsR1NtVEhrZkliYkphWmZHYzUyT0tUQTB1STRWYlN4NTcyRDIwLVd1LWdrQjB4T2trbHF4S2VhNm1OV1ljQUpFWHNQUGVCUEU1Ymg0OWQtS1lRTV9Lc3MwTEpFYXBsLTJidUFualBMNWl0NUhjaEZSVVplX1FsaFFKOG5LUzhRbzRRMURySGZySmJYQQ?oc=5",
+    "fonte": "Portal VV8",
+    "publicado": "2026-11-01T22:08:37+00:00",
+    "termo": "preço gasolina"
   },
   {
     "titulo": "Governador de São Paulo rebate declarações de ministro sobre preço do diesel",
@@ -158,6 +200,13 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1dRbUdLT3AtOVNZWUh1QXdXWEMzMDFpN1lfdGIyQWdsdEk0S0ttT1ZaSEdKanYwQ21DWWluOG5welNhOENLR1NpeTdCYUo2ZWt0UEJqc0hMTWs3d1hjajVmbnFlREdlRDFULVY4Q0J5WkNtZkdsWXVoLTRCaU01eG5WRzJuMVdGRy1wdjNtdGlaVjRlR2szeWJpMm5POUU5bTRBMg?oc=5",
     "fonte": "SBT News",
     "publicado": "2026-11-01T18:13:02+00:00",
+    "termo": "Petrobras reajuste"
+  },
+  {
+    "titulo": "Combustível de aviação fica mais caro após reajuste da Petrobras",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX21qUXRHUFdGZFkxdjR5U3R0a1dnWjJOenprNlhIX2QwR0ItXy1RMTA5bWRmS1k4cndUbHAxX3pWMkJRcGtTdzBSMzc4bXhuV001b2R5ZmxBUm9XU1VLMDFNU3pETVZUVzlGemdqNUJKTHFTRHVmNHdXNW85SWhlVnhXNHFtWkZfOHpz?oc=5",
+    "fonte": "Rádio Itatiaia",
+    "publicado": "2026-11-01T18:01:51+00:00",
     "termo": "Petrobras reajuste"
   },
   {
@@ -229,54 +278,5 @@
     "fonte": "Agência iNFRA",
     "publicado": "2026-11-01T11:57:00+00:00",
     "termo": "Petrobras reajuste"
-  },
-  {
-    "titulo": "Governadores que negaram reduzir ICMS a pedido de Lula e fizeram campanha contra impostos aprovam alta sobre combustíveis dois dias após eleições",
-    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOR3RuTmotRE1RZzVXVTJWZzRSTFM5MjlmNG13aGIwS0QxSWVGLWZKajNiOHZXRUVCaDNjUTdfX1c1VDM1NGpBYVBZQVU2T1llNVIzbGFvWUh1QlprazRNaVZhRzBrLWhzcVpGRl9WdWFJajNjdm5KRmVpbW1kbFNpQ00yc000N2xORnhkdzFRckpQWkUtcG0tX3l1amFjZFpodnNnUE02SlBDV2JBazV6Y2dIenpISmo4SDJVRmxGeFlzTkYxYnowbFpBajdyWWZJNFoxX3JSczZZSTdRVkh1R0ttTlVRZDJiT0x6TjFIYkRCNEJkUGFuQ2k4eDM2WTRlbVV4UEJsRTV1d1o3SDd0SDRqVFpLUzZM?oc=5",
-    "fonte": "Brasil de Fato",
-    "publicado": "2026-10-31T13:45:00+00:00",
-    "termo": "ICMS combustíveis"
-  },
-  {
-    "titulo": "Governadores aprovam aumento do ICMS sobre combustíveis",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2liUklTYmxyY0VQSmRTU1dpemlwcHhmZ2JVb0hMMnBSbXhQYzFqNmUxUGNwQTlMbnR1c3IwZ2EyY0dSWTVPREZvNXNxX0FsSHhjSVZUOExzR2xuSDRwTHdWVGIyVVg3YWI0UG5EbTVEbUlEUjNmc3NleUthdXZpblpiLUg?oc=5",
-    "fonte": "Acia Araçatuba",
-    "publicado": "2026-10-31T11:12:16+00:00",
-    "termo": "ICMS combustíveis"
-  },
-  {
-    "titulo": "Petrobras aumenta querosene de aviação em 7,2% a partir deste domingo",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3NLYTJwTDVjSGVTb1hQSXpPbmdpem9KeWh3SFBVZHVLNHdDeURyNUhWdHRENFlBZ2FuZzkxTE84LXMtcHBTVllycUVpMVhBLWM0RzFWS1hubnhhYnAwUkhEYV9JTjBCNmU5LUp3blFOYVdjTm42Q0Zlai02SEd4OG5NMW82NVE?oc=5",
-    "fonte": "Agora RN",
-    "publicado": "2026-10-31T07:00:00+00:00",
-    "termo": "Petrobras reajuste"
-  },
-  {
-    "titulo": "Gasolina e diesel vão subir em 2027: entenda o motivo",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2tjMmppdm01T1MyUGI5aGQxM2l2bXh3eFQ5SVVWRkpLSVdnLU4zbmJxNHRMZHo5V3hGU1hMZG5RY2RpanA5TkNJYm14ejFhbl95QTRYM2tIOHZmNW1aNC03dXhNU3BTTzlqd2g4N1ktQXVTbi1PMmc2c0xNdkMxVVdKSnVUaEU1OFJfZ2VGQkxCYUNxd2pORUNJNDEyX0FyaHBodGZsdnJjZw?oc=5",
-    "fonte": "R7",
-    "publicado": "2026-10-31T04:17:19+00:00",
-    "termo": "preço gasolina"
-  },
-  {
-    "titulo": "O que os boicotes e as demissões de eleitores de Lula dizem do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1lSYTVjV3JMMXhXOVJWWFRVemxubDhYYlFQTnF0ajdVNUx1TUlQRFEzMWRDU1pBajQ4ZnJ5bGM5dk8taVYxUDl4dy1jNW1Qd094YUt3eHFuTm44RVZNT0NTdEJTNEJhcGFTNTJGb0RkWHloaGlQWWl5X0c2Y3lnbTl5Zk04WnZQNG9GaUhubG5LQ2JHdzJ3dVZXempYb1ZPa25ySFRCSU5aaTIxemNsZWgza2drYVNfM3c?oc=5",
-    "fonte": "Nexo Jornal",
-    "publicado": "2026-10-30T23:24:46+00:00",
-    "termo": "Ipiranga combustíveis"
-  },
-  {
-    "titulo": "Petrobras fecha outubro com nível elevado de utilização das refinarias, de 98%, diz diretor",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObWhaNWQ4VjBqMEJBWXdXR0ZCWHBGSTM4TkkwRFp4LWVmUjB5QUM3RkxzcFhhTkxqdmJtWk5Mb29sUkJDTVlUZk1GR1ROSXpLa2p5QkNTUmw1bUZ5T2VBUnY4SjVCOW1ITGxrb1lVMlNFeC11Rmh4dWRWWURmV2pCYXV2MzB6UFE1dERWbHh1aXJHTS1SMHBjYXF2VEpLSWtoc1k2ajF2bWVvdm5Sa3lDa2xmTkFxRGs2WVlHc1dsdl9fcGVCTXZVMTU5UHdhYXJzQVZqLWQxNnJ1SFdVMDhBNDRxNnhGMVFjazhN0gHwAUFVX3lxTE51blkyV0llZ0dYcGVvTEhkZHlvNUJOZDQ3RjdyT2w5T0kzYmp6WVRKZGEtRFdtZjloYVR2VWVSYlJiTkdaalk5M2tyMVk0VkREWG9KR2Zwa2NHakh4WXhraThOcDVKSkJ4VFVYT1NFUVpvZ3lKTF83VVhFQlA3aGxBWm51LWtfUzJtb0dVaHdsNldfNndKSUhqU2QxamZUbWs4dDlNY2VneXZvRElrZ3AybElNUFlnU05Ldi0wZlh3QzcxUmJENzZfclNodHR6TzRoU2x4UGhhbGtCenE3UDJhT3ZJTDk3TFJzRlN6ZkZyNA?oc=5",
-    "fonte": "Notícias Agrícolas",
-    "publicado": "2026-10-30T20:19:42+00:00",
-    "termo": "Petrobras reajuste"
-  },
-  {
-    "titulo": "RS tem gasolina mais barata (menos cara) do Brasil; veja os preços e os motivos",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWGx0VTZYdE1tazdJQ3BuTWdlWmUzS0dCS0hhMVRtRWFvZzdaRmVicXpoV0hZeUE3SkJaMzR1ZlNPWUlfV2Fnd25fdVE0MzcxTTR2VER5ZHhJTy0waXIwNVBsWW9qZ2tMdTl2S2ZWNm1iaVNncl9wcUtNSWd0dDl2eWpDRjBSMWx2SmNoSnRHMmltWE9rc3NKX2VtOGl3a0U1WXhCZTkwTXZVc0xVdU1LSV9QV1JZb3FmTl9GRXZyckJXMU9BRmtoaC1NOXEtbXBjSTE3NnZYMGlMcGxxOGtRMi1NTi1KY2hMUEpvcnR0QjlPRERVbUd3SWdBU2RTblFQNTFYZGJhZ2Q0MXM?oc=5",
-    "fonte": "GZH",
-    "publicado": "2026-10-30T19:47:11+00:00",
-    "termo": "preço gasolina"
   }
 ]
