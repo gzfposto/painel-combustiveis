@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "ANP: Preços dos combustíveis fecham semana praticamente estáveis",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOUYxdlJWY193dTcyRV9uY3NJR0czTkJxYnBJX0dsSWhDNGVKRnlnbVRBSnJfcjE5WXI2ZTZWYkktZUpYeTVpQ3lWdGlza3dIZDFJZGppbjgwbmVBaWFRcllhQ1ROWVJLeENDc1FMeWF6Y0oyUUdYWkIxMDdyU1pwUnhCb083azJ6NXRaLUJnRUtNSzIyckhnTmoxS2Q5VTExdC1mczdQZ1pYQ0w4NUFGMGVRSkpLV0h6SzJGamdzR2JOY0lONnVvSkNJSk8?oc=5",
+    "fonte": "UOL Economia",
+    "publicado": "2026-11-13T20:00:00+00:00",
+    "termo": "ANP combustíveis"
+  },
+  {
+    "titulo": "Combustíveis ficam estáveis na semana, diz ANP",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG1DZmNsd25URkJ4MmRsXzVSYXJnbmhBR2kzRERPQ2w3TTRJYnBGRUQ5MkJZZXlpd09VVlB0VV9wMktTSDkyQ0lqVVdsd0htY3hoY0lIeFhRVk5HNy1zNFc3NUh1bDItckx4Unp5d3Y0cm5DTFQxTDJjeDVkX01jTTJ4cWxjaG00ZkdTRENlbjFDZFVJa0hnREJES3VXcnM?oc=5",
+    "fonte": "A Crítica de Campo Grande",
+    "publicado": "2026-11-13T20:00:00+00:00",
+    "termo": "ANP combustíveis"
+  },
+  {
+    "titulo": "Diesel S10 recua em outubro e chega a R$ 7,04 no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JVmpaM0VnVHVXWDN1SHlpQTQ2b2hXdTZ1TmFFNkgtWUMzOUxIX1NPU3VmeGp4V21JdHBKZnh1ZkFoNGVfX3Vrd3gxSkh0ZUozck1obEFRZ0lfSmZoa2ZLT09vZHZwYW40d2QyUnhoaG1qMmRmci1J?oc=5",
+    "fonte": "Mundo Logística",
+    "publicado": "2026-11-13T18:59:47+00:00",
+    "termo": "preço diesel"
+  },
+  {
     "titulo": "Prefeitura corta investimentos e restringe contratações em Ipiranga do Norte",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQckhSMVlGSVVaQmdJX0pPN3RwSElBQ29jbm5FMVN1VENCNnE4cXFuNXh3R1VsMWduWUhXMndSN0NDLU1KRnF3MU9LUFRoanhmVUlUb0RreS1MRFRtUjNnQlJaQWoxVm1Hc3JEaV9GUmc3cThCRUFmdHVGVldpNlRmUW41dURienBpZFBqZUF4dkMwZHRQdTlOdFhLUld6TkExWjJaLUppeWx6SHZXWjA1WllrbmFyN21SbjFN?oc=5",
     "fonte": "RepórterMT",
@@ -42,6 +63,13 @@
     "termo": "ICMS combustíveis"
   },
   {
+    "titulo": "Etanol x gasolina: álcool fica mais caro, mas ainda compensa em 18 estados",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGluQVZVaThCVXZGWGVHdWJSV2NBU01MWmZoTm9sajRjdndlX21MZk5rRi1Sa25DSWxMN1JHamFEWVBUSldZNTJ5d1lvRkdIRHp2ZlR4c09kXzY1Z2lVbC1TVzB0dUVhaWxTMWRuM09UNUdGUkhOcVhLdXJ6czdMOTBSS19MR0lsNUNZc2h6a0RUaGY4UW9hWE5EVV9XbHg2X1pzY0puVlBWUWNOVXMycUhybkRDcFBoQXdNdGtBdFotWnNRM1VaQUU2cWo?oc=5",
+    "fonte": "UOL",
+    "publicado": "2026-11-12T20:00:00+00:00",
+    "termo": "preço gasolina"
+  },
+  {
     "titulo": "Insumos, Diesel e ATR: A Margem dos Fornecedores",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVJNNU1aS0VlMzhpVVNRRGFncm9lTnlFMVBfZGxzdTV5dDFvZW1MNmUzbnpXVVBRcnI1NGE2WGp6WGxqemtZOEw4ZnQ4STdnNXA2TjRkLUtXWmZKYkNGVnJTOGlzN3p2NFA4U1JiVUxWdGhBNzI5QzBVbzVTMTJVWlRZXzNqdGZRZVE4?oc=5",
     "fonte": "Portal CNA Brasil",
@@ -72,16 +100,9 @@
   {
     "titulo": "ANP amplia capacidade de fiscalização da fase de exploração com aquisição de drone",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLThCb2FCZ1JyTV8xYTA5eHJyQjlrTDNFYmduS2V3S0hQVmVfbmxuMWNqVWV0VnF2THUyOW9ublUyOGNxVHpYa3hRb3JvLTZHcm1aQlN4NG1pQjU4MkxLTmtpeDZkNmJkUUxUM1JFcUxWMmpFVWl1TzdDOTZEaUMtZ0VieHlUWnZOczVTZm01bXM4YXUxN2liS0QwQVhlQ0VQTUZOazlCZ1JjenV3S1ViaTFtVmlqOU80Z2NnNTVmSXQ0ZVFRYkt4V2FMQXZab2M3dnRuZG1uZmppOVVIcUViZmRrNDhFRGZxR3R6RXpnLXAtdw?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "publicado": "2026-11-12T15:09:04+00:00",
     "termo": "ANP combustíveis"
-  },
-  {
-    "titulo": "Etanol x gasolina: álcool fica mais caro, mas ainda compensa em 18 estados",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGluQVZVaThCVXZGWGVHdWJSV2NBU01MWmZoTm9sajRjdndlX21MZk5rRi1Sa25DSWxMN1JHamFEWVBUSldZNTJ5d1lvRkdIRHp2ZlR4c09kXzY1Z2lVbC1TVzB0dUVhaWxTMWRuM09UNUdGUkhOcVhLdXJ6czdMOTBSS19MR0lsNUNZc2h6a0RUaGY4UW9hWE5EVV9XbHg2X1pzY0puVlBWUWNOVXMycUhybkRDcFBoQXdNdGtBdFotWnNRM1VaQUU2cWo?oc=5",
-    "fonte": "UOL",
-    "publicado": "2026-11-12T15:00:00+00:00",
-    "termo": "preço gasolina"
   },
   {
     "titulo": "IBGE: IPCA desacelera para 0,14% em outubro",
@@ -96,6 +117,13 @@
     "fonte": "JD1 Notícias",
     "publicado": "2026-11-12T14:53:00+00:00",
     "termo": "Ipiranga combustíveis"
+  },
+  {
+    "titulo": "El Niño, problemas de oferta e preço do diesel explicam alta de alimentos e bebidas no IPCA em outubro",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUE5VFM5VXJGSVdyY0U2akdxcmVLY1RCczBURVY1alJSZ191cHpYY0F6eFNBWUszSVFzNmE4WnZxV1FsSGlPa1M3c2MtOU45NnFUdm1SZUU2Vk5YaVhEV2F2bEtOdmt5R0h4d1dtSjhnT09LMEFIY3RPLVJYOW4tUy1ucjRaZXlrZ3M3NEZ0QWtfUkQ1U1JQbUcxVUxvNDktM2E4QUFzdGVWYXVhV1FMRDExMFNiazR5eGJxTk9iWW1aS1ZQZGduOHNzYTNoWktuckpNZlRFa1QzdVNZZ3NGeHZnMm1mU1VZT0xCU3BR0gH8AUFVX3lxTE5XNEswaVhycFFsVXZqZG1Ia21feHQyemQxeEgzZGVCQlN1UXdjZkhVbjJvM0VzbUozTDRTV3JsZV9QRk9TdUJzZzVIREdXcHpwUWtDRUU0NnhuSWxkU2hRSDlfOUVLQk52TTMtSmpkZUZ6NXRvTkRoVnNFWjY0eHhjbFp1aGlaMVNvUExlelFnUkxpUVNjWFBsdGl1OW1VQ0QtX1k0RlZRRTR5ZTZfdDkzMXhFMS16amVVbjFEMlF3dFg3VVdxNEpLYVNBRUVBTVltTm83YnJDdzNLTGVHajRvOWhYRGZ0eTYwWEQzYm1JU3JObG9IbWdvMUZELQ?oc=5",
+    "fonte": "Valor Econômico",
+    "publicado": "2026-11-12T14:37:58+00:00",
+    "termo": "preço diesel"
   },
   {
     "titulo": "Subsídios atenuam preços, mas diesel segue encarecendo",
@@ -113,7 +141,7 @@
   },
   {
     "titulo": "Ultrapar dispara lucro em 249% no 3T26, mas geração de caixa operacional recua",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnowbEtGQlB5ZnpNUWVkRFBtZmx6eE02TlAtUGpGblFXTEJpRkhNODQwYnNBaWhWb1NGcG1aLWltNzF2WkdGRUFnRWF5ZDUtS1UyZDJUMTlhNWtMMTE5X3Z6YmlKSG94TUFKNDJfLVhVRlFwQWZIcmdpbHZrMVp6eElsVHd5akw5YmhZbUxjTGlUb3dyRkUtY3U4UFluVUdRODljTWJMM01OMHdFNk5reExR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GN05zb1cwQUx2b3hFcHJ1QjFzakVqcWJHRnpDWjVIa284Qzd0TFFHbDduUm04Ny00YTJKYXNvUVRvcnFjcWg3VlhHUl9qdFhxN3NIOEpEQmRSbHFHWXU2TDctbGNFN0dERmc?oc=5",
     "fonte": "ADVFN",
     "publicado": "2026-11-12T13:57:25+00:00",
     "termo": "Ipiranga combustíveis"
@@ -173,6 +201,13 @@
     "fonte": "Investidor10",
     "publicado": "2026-11-12T00:23:08+00:00",
     "termo": "Ipiranga combustíveis"
+  },
+  {
+    "titulo": "Petrobras avalia ajuste conjuntural na política de preços dos combustíveis",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmNQckRyR0VWWWZLWDFJZmRWT1psb242N1Z0cHcxbGUyeXNWbEhRSkFaMjVoVnZVSFNfZTBJQjd3SHpCSmo0cE1oNWtGSE1hZHFsN2tYWjZZVFNlZjhIWVpmNHF5WDBubG13Q0d6WHMwbzVjRmdvTEZkb0pQaGtEZzh4Sk4yLU82S0tMeDdFNncyMkFDUEhQc3BUcTNwT01Cc2FySC1kbEVWQTJwQS1JMUdrQVUySmk2dV9LUFZ6SQ?oc=5",
+    "fonte": "eixos",
+    "publicado": "2026-11-11T23:49:01+00:00",
+    "termo": "preço gasolina"
   },
   {
     "titulo": "Ultrapar apresentou lucro líquido de R$ 2,697 bilhões no terceiro trimestre",
@@ -238,45 +273,10 @@
     "termo": "Ipiranga combustíveis"
   },
   {
-    "titulo": "Arrecadação de ICMS sobre combustíveis cresce 87% no Rio e chega a R$ 2,94 bilhões",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX19FZjJaNUVPS1RaWlhMaFZYbzBNWk9Mb1d4OTdVekpnaEZqVlF5elFOLWdtVFJqWEtXeGowUThXVzRNd3FuS3BheHc3ZUNZS1FfU19ac1h3Q0liWnBpNVp3VXZ6UGhrV0NsNVZnQUJONXZLV3QxcEhPS0JxeUs4NWppQVZ4M2dBVVpkS3NnTlVIWUdLaXVnRmZQNTQtdzBNLUUyWnBnc2xOaEx5cWFHcDRCUUFtVzFMSlNWWDlpbHpYTlczNkE5aw?oc=5",
-    "fonte": "Diário do Rio",
-    "publicado": "2026-11-11T21:16:00+00:00",
-    "termo": "ICMS combustíveis"
-  },
-  {
-    "titulo": "Preço do etanol cai em 14 estados",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFVWpRb3h5aVc1V3h4MFNNS1lUNzlRNld0SlBjWWFPQmNLY0xVMzZVQ2dOQlVUMDlMMGdEZEtLMk9vdHBNMVFaR2k0UmhWcWYtQkl3Z09fTTJ6c3ZPMDloV3NCdEMzOTlN?oc=5",
-    "fonte": "TAGD Advogados",
-    "publicado": "2026-11-11T19:54:19+00:00",
-    "termo": "preço gasolina"
-  },
-  {
-    "titulo": "Petrobras pediu ao MME mais prazo para revisão tarifária de gasodutos",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjZiLUF4SndvMHNySG10eTNHNmNoWFQ2ZTVyZ29ZYnJ6N0xDVmotWHhDVnhYSUtsZHhua3hWVHV5SzFEOExPN2NIR01mZUd4Q2tvbEROdWNQc2Q0MGt5OTd6djlkYjEzT1pTaTF3djVFaG5jV21VZ1U2dTdxY2tGNTJFMW5WTFlULVNuY3JRNDkwTFNvaGJoNGtNOFhDa1NOSUE?oc=5",
-    "fonte": "Agência iNFRA",
-    "publicado": "2026-11-11T19:26:06+00:00",
-    "termo": "Petrobras reajuste"
-  },
-  {
-    "titulo": "Petrobras avalia ajustes pontuais nos preços diante de cenário geopolítico",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFo0S3Ria3VFdnJOemlwMjhmS3BSbUFFVDVyRGQ2TUxUZkdqUF9oOGtpd1U0YTFJTnh3YnpmZ3BTa1BOOFpIMm9NbmpjX0lxOGpTcTY2RTlnUVF6eVlmdnFnS0w0dFdMbTZUZEQwd05EZXp3Q1B0bjBEX0JaN1RBSVBhU0V2OUN2Z080TEdpSFU1Y0lZU2k4Tkw5X2NReTZnT2JIX3VONzVDcUIway0zczRkMHNVVTVna0E?oc=5",
-    "fonte": "UOL Economia",
-    "publicado": "2026-11-11T19:13:01+00:00",
-    "termo": "Petrobras reajuste"
-  },
-  {
-    "titulo": "O impasse das multas de 700 milhões da ANP por preços de combustíveis",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0NiVXRNWjZTZHNrcTZDLXVsczlpQ2VyYlZrRUJoLU1nc21SVEVvVXdMQzBMUk5rYjNONG9mUHoyOVhaYWd2X1BKb0tLYlI1bmh5dWlmbUM3ekpLd25hMlFlRi1KOEYycnlvSGlQWllhZktXLThuekE3Ulg3dGt5d1pfdjFKRnVzSFBuNHY4WHNrU1pleDh2bHdJMjlNcUFmdFNCb0lZRXI?oc=5",
-    "fonte": "VEJA",
-    "publicado": "2026-11-11T17:00:59+00:00",
-    "termo": "ANP combustíveis"
-  },
-  {
-    "titulo": "Ibovespa sobe e dólar cai de olho no reajuste fiscal; PETR3 perde mais de 3%",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFNXNW5VdUNwQWJXZVV4Sm5vbm0weTFjSDRkdVNmSTdDaXVNUXdKUUVkOU4zX3VSN1NzQV8yckVKT2pENlRnNlRhVXZiVWZodWtoVDRYWlNGQk5NcVBfYkhxMVVxN2ZMLVZSbXdJa1FFMzh6T3o0TktOYmhHUkhZUjRYdVVILUgteWRjUU5oQTVxU2xQM3N5OGhzRlF5NXVNZEsySkgtUDZPXy1laVMya1JZMExwczMzWThQTnk2NUrSAcABQVVfeXFMTjhTVzVuVXVDcEFiV2VVeEpub25tMHkxY0g0ZHVTZkk3Q2l1TVF3SlFFZDlOM191UjdTc0FfMnJFSk9qRDZUZzZUYVV2YlVmaHVraFQ0WFpTRkJOTXFQX2JIcTFVcTdmTC1WUm13SWtRRTM4ek96NE5LTmJoR1JIWVI0WHVVSC1ILXlkY1FOaEE1cVNsUDNzeThoc0ZReTV1TWRLMkpILVA2T18tZWlTMmtSWTBMcHMzM1k4UE55NjVK?oc=5",
-    "fonte": "Investidor10",
-    "publicado": "2026-11-11T15:19:13+00:00",
-    "termo": "Petrobras reajuste"
+    "titulo": "Lucro da Ultra mais que triplica no 3º tri",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVVQRU1SWkVmSmlpX2FrdUpqbVdIUGV0VDZfaFdUOHFRVFRIWnZtV3VodkV3TURrREg3UzR6elN4VFdVbFRWTjUyWjdqbmEzazNZVDBmcmlWczJPU1U3bTNiSTdsdWZCYzg0b2RSTE5IWU5ERFJLYW5XU0c5dmwtNkVRbF9IblNWTDF2UnlTUmJPdnVZTDZMVjhhTDJfQmZQRVpiX0kwSF9LX3l3WEhjUkRnY1ZnU1czcm8xSUxR?oc=5",
+    "fonte": "Terra",
+    "publicado": "2026-11-11T22:10:00+00:00",
+    "termo": "Ipiranga combustíveis"
   }
 ]
